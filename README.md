@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Hussain</h1>
-<h3 align="center">A passionate Product Owner | Developer</h3>
+<h3 align="center">A passionate Product Owner | Creative Developer</h3>
+<h2 align="center">I am product person, I love building products that provide an amazing experience to the user.</h2>
+
+👨‍💻 Check out my work [https://my-portfolio-one-psi-61.vercel.app/](https://my-portfolio-one-psi-61.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/devsh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devsh01" height="30" width="40" /></a>
 </p>
 
